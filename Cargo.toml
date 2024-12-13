@@ -1,5 +1,5 @@
 [package]
-name = "growthbook-rust-sdk"
+name = "growthbook-sdk-rust"
 version = "0.1.1"
 edition = "2021"
 authors = [
