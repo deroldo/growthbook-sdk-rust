@@ -3,14 +3,13 @@ name = "growthbook-rust-sdk"
 version = "0.1.1"
 edition = "2021"
 authors = [
-    "Deroldo <diogo.fernandes@willbank.com.br",
-    "Alefh Sousa <alefh.sousa@gmail.com>"
+    "Deroldo <diogoderoldo@gmail.com",
 ]
 license = "MIT"
 description = "unofficial growthbook rust sdk"
 readme = "README.md"
-homepage = "https://github.com/will-bank/growthbook-rust-sdk"
-repository = "https://github.com/will-bank/growthbook-rust-sdk"
+homepage = "https://github.com/deroldo/growthbook-rust-sdk"
+repository = "https://github.com/deroldo/growthbook-rust-sdk"
 keywords = ["growthbook", "experiment", "feature", "flag"]
 categories = ["web-programming"]
 

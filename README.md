@@ -1,4 +1,10 @@
-# GrowthBook Rust SDK
+# GrowthBook SDK Rust
+
+> [!WARNING]
+> 
+> Fork from [Will Bank](https://github.com/will-bank/growthbook-rust-sdk).
+> 
+> This fork was created just to fix some dependency incompatibilities across projects while the main repository is not updated.
 
 [![Crates.io](https://img.shields.io/crates/l/datadog-tracing)](LICENSE)
 
